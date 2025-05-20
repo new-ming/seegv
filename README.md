@@ -65,7 +65,8 @@
 |![슬라이드47](https://github.com/user-attachments/assets/a3679a48-78f3-4e88-afdc-42546feff8fe)|![슬라이드48](https://github.com/user-attachments/assets/a3ca63ba-b037-4a66-a8bc-bb81d423c246)|
 |![슬라이드49](https://github.com/user-attachments/assets/2751ccb4-13a3-45f6-a31c-3795cdebbdd5)||
 
-
+</div>
+<br>
 
 
 ## 핵심 기능
