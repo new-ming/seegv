@@ -1,0 +1,22 @@
+conn/as sysdba
+alter session set"_ORACLE_SCRIPT"=true; 
+
+c##seegv
+drop user  SEEGV cascade;
+
+DB생성
+create user SEEGV identified by SEEGV;
+grant connect, resource to SEEGV;
+alter user SEEGV default tablespace users quota unlimited on users;
+conn SEEGV/SEEGV;
+
+1회
+python manage.py makemigrations
+python manage.py migrate
+
+
+변경시마다
+python .\SEEGV\manage.py makemigrations SEEGV
+python .\SEEGV\manage.py migrate SEEGV
+python manage.py makemigrations SEEGV
+python manage.py migrate SEEGV
