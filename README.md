@@ -37,7 +37,7 @@
 | :-------------: | :-------------: | 
 |![프레젠테이션 (3)](https://github.com/user-attachments/assets/3b0e6d39-6c8e-4cdb-a8b7-7c138820f5cc)|![프레젠테이션 (4)](https://github.com/user-attachments/assets/08c8bddb-7ff5-484a-8913-8b5b949d2dec)|
 |![프레젠테이션 (5)](https://github.com/user-attachments/assets/9f1e86f4-3bac-4356-8348-22b975768136)|![프레젠테이션 (6)](https://github.com/user-attachments/assets/e2d77bdc-ed05-454b-9aab-5154674b7a86)|
-|![프레젠테이션 (7)](https://github.com/user-attachments/assets/de67935e-5259-44a6-911b-b8f6d1e095f0)||![슬라이드1](https://github.com/user-attachments/assets/4628eff0-5e5a-4df2-abaa-727cf8d244a0)|
+|![프레젠테이션 (7)](https://github.com/user-attachments/assets/de67935e-5259-44a6-911b-b8f6d1e095f0)|![슬라이드1](https://github.com/user-attachments/assets/4628eff0-5e5a-4df2-abaa-727cf8d244a0)|
 |![슬라이드2](https://github.com/user-attachments/assets/052bf10a-4d73-46bb-b082-ada70ddb8357)|![슬라이드3](https://github.com/user-attachments/assets/325c803d-3b5d-4369-a9e5-d315b95baf90)|
 |![제목 없는 프레젠테이션 (9)](https://github.com/user-attachments/assets/53130d75-d8d7-4b10-9637-72a6bcbcb3d5)|![슬라이드4](https://github.com/user-attachments/assets/8ccf30d3-03cc-4ac4-8106-547bc945abd5)|
 |![슬라이드4](https://github.com/user-attachments/assets/ebdf7bdf-c326-4b53-80d9-1425ae018cb0)|![슬라이드5](https://github.com/user-attachments/assets/d2ea9f34-5573-4247-8e02-0a5bc4b20e2d)|
