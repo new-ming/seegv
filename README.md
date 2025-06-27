@@ -98,17 +98,24 @@
         * 카테고리간 이동
      * 상품 상세창
         * 상품을 `장바구니`에 담거나 단일 상품을 `선물` 혹은 `바로구매`가 가능합니다.
+          
+  ![8-상품](https://github.com/user-attachments/assets/36c421f4-fa91-4775-a6fc-93cffaf0af4c)
+
    * **장바구니**
      * 장바구니 결제
        * 장바구니에서 상품을 선택하여 결제 가능합니다.
        * 결제된 기프트콘은 `사용가능` 상태로 발행됩니다.
-       
+         
+  ![9-장바구니](https://github.com/user-attachments/assets/998b25f0-52bd-46d9-b776-27f3ba5375fc)
+
    * **선물하기**
      * 선물하기 결제
        * 선물하기로 구입한 기프트콘은 `미등록` 상태로 발행됩니다
-         
      * 선물하기 등록
        * 선물 받은 기프트콘은 마이페이지에서 등록 가능합니다.
+         
+  ![10-선물하기](https://github.com/user-attachments/assets/91e49e2a-81d6-42b6-957f-06b48d364cd8)
+  ![11-기프트콘등록](https://github.com/user-attachments/assets/a9aa3f96-6e85-4609-a902-179949dce0bb)
 
   
   ### 회원
@@ -117,29 +124,44 @@
        * 회원가입 여부를 확인 후 미가입자는 회원가입 페이지로 넘어갑니다.
      * 회원가입
        * `아이디 중복확인` `비밀번호 확인` `필수약관 동의`시 회원가입이 이루어집니다.
+       
+   ![1-회원가입](https://github.com/user-attachments/assets/a5ed5c18-a744-4592-b0ef-19b549d3f599)
+
   
    * **로그인**
      * 아이디 찾기
      * 비밀번호 찾기
      * 로그인
        * 로그인 시 아이디 저장이 가능합니다.
+
+  ![2-로그인](https://github.com/user-attachments/assets/4955b5b8-cbfd-4a67-a8c0-39336371bcb1)
+
        
   ### 마이페이지
   * **mycgv**
     * 메인페이지
-      * 회원 기본정보를 보여주며 자주가는 cgv를 등록할 수 있습니다. 
+      * 회원 기본정보를 보여주며 자주가는 cgv를 등록할 수 있습니다.
+        
+  ![3-자주가는cgv설정](https://github.com/user-attachments/assets/49b0a2a0-71fc-448e-a41c-65fcafa0e05e)
+
+        
   * **회원정보**
      * 회원 정보 수정
        * 비밀번호 확인 후 회원 정보를 수정 가능합니다.
-     * 약관 동의 변경
-       * 서비스 약관을 변경 가능합니다.
-     * 회원 탈퇴
-       * 비밀번호 확인 후 회원 탈퇴가 가능합니다.
+         
+  ![4-회원정보수정](https://github.com/user-attachments/assets/2ddc048a-5671-4bcc-83a7-0aea8496bb7a)
+  ![5-비밀번호 변경](https://github.com/user-attachments/assets/f173081a-a2fa-43a0-9bf6-c5c324cdc4d6)
+   
   * **개인 메뉴**
     * 포인트 내역
+      ![17-포인트](https://github.com/user-attachments/assets/eb8cc786-40e0-4184-a965-734907ae0958)
     * 프로필 관리
-    * 결제 내역
+      ![6-프로필변경](https://github.com/user-attachments/assets/5cac693c-4b87-4c38-84ef-1be8d17645ea)
+    * 결제 내역 확인 및 환불
+      ![12-결제내역 환불](https://github.com/user-attachments/assets/605576a7-2066-4782-bdaf-a91a19e51e14)
     * 보유 기프트콘
+      ![13-보유기프트콘](https://github.com/user-attachments/assets/93fa6680-5b26-47c4-8b57-ee7d4a792746)
+
   
 
 
@@ -147,12 +169,17 @@
   ### 관리자
   * **기프트콘**
     * 기프트콘의 상태를 변경 가능합니다.
+    ![15-기프트콘관리](https://github.com/user-attachments/assets/d841cc36-1464-41f1-a6af-821dca59700e)
+
   * **상품**
       * 등록된 상품의 정보를 수정가능 합니다.
       * 새로운 상품을 등록 할 수 있습니다.
+    ![16-상품등록](https://github.com/user-attachments/assets/e4eda6b8-d3a0-4c46-bae3-722f766e76a1)
+
   * **회원**
       * 회원의 타입을 `관리자` `직원` `사용자`로 변경 가능합니다.
       * 회원의 상태를 변경 가능합니다.
+    ![14-회원관리](https://github.com/user-attachments/assets/091e4fff-2cf7-4da0-9dce-c0f4d6544751)
 
 
 <br><br><br><br><br><br><br><br><br>
